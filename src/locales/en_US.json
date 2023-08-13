@@ -1,0 +1,85 @@
+{
+  "onboarding": {
+    "demo_header": "thirdweb self support chat",
+    "intro_header": "thirdweb",
+    "intro_subheader": "Welcome to the thirdweb self service ai support chat.",
+    "intro_button": "Connect your wallet",
+    "connect_header": "Connecting to your wallet...",
+    "connect_subheader": "Select a wallet account to use to create your thirdweb identity. Then allow this app to connect to the account.",
+    "create_header": "Create your XMTP identity",
+    "create_subheader": "A self service AI support bot messaging app for the thirdweb community.",
+    "create_button": "Create XMTP identity",
+    "creating_header": "Creating your XMTP identity...",
+    "creating_subheader": "Click <strong>Sign</strong> to create your thirdweb identity. Your signature proves that you own and control your thirdweb identity.",
+    "enable_header": "Enable Your XMTP Identity",
+    "enable_subheader": "Enabling your XMTP identity is like setting the password for your inbox.",
+    "enable_button": "Sign to access the support bot",
+    "enabling_header": "Enabling your XMTP identity...",
+    "enabling_subheader": "Click <strong>Sign</strong> to create your password. You'll be prompted to click <strong>Sign</strong> to provide it whenever you access your inbox."
+  },
+  "messages": {
+    "attachment": "Attachment",
+    "attachment_cta": "Click to load",
+    "filter_none": "All messages",
+    "filter_requests": "Message requests",
+    "convos_empty_header": "No messages? No problem.",
+    "convos_empty_subheader": "Start a conversation to get going with DMs that you own and control.",
+    "convos_empty_button": "Send your first message",
+    "convos_empty_recipient_placeholder": "New recipient",
+    "convos_empty_text_placeholder": "New message",
+    "messages_empty_header": "Explore the thirdweb universe",
+    "messages_empty_subheader": "Get started",
+    "messages_empty_cta_1_header": "Send a message",
+    "messages_empty_cta_1_subheader": "Message someone using their 0x wallet, ENS, or UNS address",
+    "messages_empty_cta_2_header": "Find the perfect apps for you",
+    "messages_empty_cta_2_subheader": "Explore a showcase of apps built with thirdweb—all giving you access to your interoperable inbox",
+    "messages_empty_cta_3_header": "Developer docs",
+    "messages_empty_cta_3_subheader": "Learn how to build an app with thirdweb",
+    "address_field_prompt": "Enter a 0x wallet, ENS, or UNS address",
+    "address_field_loading": "Finding address on the thirdweb network...",
+    "address_field_invalid": "Please enter a valid 0x wallet, ENS, or UNS address",
+    "address_field_not_on_network": "Sorry, we can't message this address because its owner hasn't used it with thirdweb yet",
+    "message_field_prompt": "Write a message",
+    "conversation_start": "This is the beginning of the conversation"
+  },
+  "attachments": {
+    "unable_to_display": "Unable to display attachment.",
+    "download_instead": "Download instead.",
+    "video_messages_not_supported": "Your browser does not support the video tag.",
+    "recording": "Recording…"
+  },
+  "menu": {
+    "collapse_header": "Collapse",
+    "gallery_header": "Gallery",
+    "messages_header": "Messages",
+    "settings_header": "Settings",
+    "coming_soon": "Coming soon"
+  },
+  "status_messaging": {
+    "error_1_header": "Sorry, the app encountered an error",
+    "error_1_subheader": "Not to worry. Let’s try again. If the error persists, <0>we're here to help!</0>",
+    "error_1_button": "Try again",
+    "gateway_error": "Gateway Error — Could not load attachment.",
+    "file_invalid_format": "File must be of valid file format",
+    "file_too_large": "Please choose attachments smaller than 5 MB",
+    "file_unsupported": "[Attachment] Cannot display \"{{FILENAME}}\". This app does not support attachments yet.",
+    "loading": "Loading..."
+  },
+  "common": {
+    "disconnect": "Disconnect wallet",
+    "private_key_note": "",
+    "step_of_2": "Step {{NUM}} of 2",
+    "disconnect_tip": "<strong>Tip</strong>: If clicking <strong>Disconnect wallet</strong> doesn’t disconnect your wallet, please use your wallet extension directly to disconnect from this app.",
+    "input_label": "To",
+    "share_code": "Share the power of the thirdweb network with your friends, family and colleagues",
+    "share_link": "Copy your share link",
+    "share_qr_code": "Share QR Code",
+    "report_bug": "Report a bug"
+  },
+  "aria_labels": {
+    "address_input": "Address input",
+    "filepicker": "File picker",
+    "start_message": "Start new message",
+    "submit_message": "Submit message"
+  }
+}
