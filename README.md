@@ -1,6 +1,10 @@
-# ChitChatChain Dapp
+# thirdweb ai self service portal
 
-**This is a fork of [XMTP Inbox web](https://github.com/xmtp-labs/xmtp-inbox-web) used to demonstrate [ChitChatChain Bot](https://github.com/ETHGlobalParis/xmtp-bot)**
+**This is a fork of [XMTP Inbox web](https://github.com/xmtp-labs/xmtp-inbox-web)**
+
+This portal is designed to be the first line of self service support for the thirdweb ecosystem. 
+
+This portal provides a secure, encrypted wallet to wallet chat with not only the thirdweb ai support bot, but fellow thidweb builders as well. 
 
 The XMTP Inbox app is built with React and the [XMTP client SDK for JavaScript](https://github.com/xmtp/xmtp-js) (`xmtp-js`).
 
